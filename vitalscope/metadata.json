@@ -1,7 +1,0 @@
-{
-  "name": "VitalScope",
-  "description": "あなたの健康状態に合わせて、商品や食品のメリット・デメリットをAIが解析・提案するヘルスケアアシスタント。",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
